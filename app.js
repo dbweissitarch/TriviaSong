@@ -64,7 +64,7 @@ async function bard(){
 
         
 
-        while (wordCount < 50000)
+        while (wordCount < 51000)
         {
             // This is awkward and could be better
             // My Javascript is rusty. This was a project in part to blow off some dust.
